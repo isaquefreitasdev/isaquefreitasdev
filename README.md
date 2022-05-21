@@ -8,6 +8,7 @@
 <li>HTML
 <li>CSS
 <li>JS
-
-
-
+<br>
+<br>
+<h2>Objetivo</h2
+  <p>Evoluir ao ponto de cada pensamento que eu tiver se torne realidade atravé da programação</p>
