@@ -2,6 +2,9 @@
 <li>Amo Tecnologia! 🖥
 <li>Programar é poder!🧨
 <li>Pratico Ping pong!🏓
+<li>Ler livros!📙
+<li>Música!🎹
+
 <br>
 <br>
 <h2> Tecnologias</h2>
@@ -11,4 +14,4 @@
 <br>
 <br>
 <h2>Objetivo</h2
-  <p>Evoluir ao ponto de cada pensamento que eu tiver se torne realidade atravé da programação</p>
+  <p>Evoluir ao ponto de cada pensamento que eu tiver se torne realidade através da programação</p>
