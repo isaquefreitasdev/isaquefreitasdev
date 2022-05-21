@@ -4,7 +4,7 @@
 <li>Pratico Ping pong!🏓
 <br>
 <br>
-<h2> Tecnologias
+<h2> Tecnologias</h2>
 <li>HTML
 <li>CSS
 <li>JS
