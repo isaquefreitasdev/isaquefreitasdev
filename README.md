@@ -2,7 +2,7 @@
 <li>Amo Tecnologia! 🖥
 <li>Programar é poder!🧨
 <li>Pratico Ping pong!🏓
-<li>Ler livros!📙
+<li>Leio livros!📙
 <li>Música!🎹
 
 <br>
