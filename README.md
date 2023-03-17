@@ -24,4 +24,3 @@ Flexibilidade para aprender novas tecnologias e se adaptar a diferentes projetos
 Boa comunicação e trabalho em equipe
 Estudo contínuo;
 
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
