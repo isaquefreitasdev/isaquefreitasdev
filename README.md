@@ -5,6 +5,7 @@ Noções de design responsivo.
 Conhecimentos básicos em desenvolvimento back-end com Node.js.
 
 Projetos:
+
 Dólar Now (Dolár em tempo real) -  Utilização de apis externas; Uso do fetch e utilização de dados JSON; Recebimento dos dados em reais e retorna em dólar Contas Matemáticas: https://heroic-sfogliatella-ea93ec.netlify.app/;
 
 Text Change -  Mude o texto de Forma - Manipulação de dados com dom; Utilização de conceitos valor vs referência; Uso de métodos de String; Simulação de ambiente de trabalho real:fazendo commits ,push e branch; Link:https://wonderful-snickerdoodle-872463.netlify.app/;
