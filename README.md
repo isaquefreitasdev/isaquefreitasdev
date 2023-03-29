@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor front end<br>Tecnologias:HTML,CSS,JavaScript,Node,SQL<br>Buscando aprender sempre!📉
+Desenvolvedor front end<br>Tecnologias:HTML,CSS,JavaScript,Node,SqlLite,ReactJs<br>Buscando aprender sempre!📉
 
 
 ## 🌐 Socials:
