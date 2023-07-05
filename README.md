@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front end Developer:<br>In search of Evolution🦾📉<br>Developement is life
+Full Stack Developer:<br>In search of Evolution🦾📉<br>Developement is life
 
 
 ## 🌐 Socials:
